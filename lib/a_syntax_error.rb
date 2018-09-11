@@ -1,3 +1,3 @@
 x = 1
 
-x = def
+x = 'learn ruby'
